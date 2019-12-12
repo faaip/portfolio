@@ -13,7 +13,7 @@ Below is a selection of physical, digital and academic work that I've been or cu
 
 ## Lyden af Struer
 
-![Lyden Af Struer screenshot](/assets/lydenafstruer.png "Lyden Af Struer")
+![Lyden Af Struer screenshot]({{ site.baseurl }}/assets/lydenafstruer.png "Lyden Af Struer")
 *[Lyden Af Struer](http://www.lydenafstruer.dk) screenshot*<br/><br/>
 
 "Lyden Af Struer" is a web site for documenting and exploring sound in the city of Struer. On this website users could both record and play sounds of the city. This was done in order to put focus on the invisible but audible aspects of a city.
@@ -34,7 +34,7 @@ This was created in collaboration with Julian Tapales, Angela Barriga and Maria 
 
 ## Gloria Stage (Roskilde Festival)
 
-![Gloria Stage]({{ site.url }}/assets/gloria.jpg "Gloria Stage - Roskilde '18")
+![Gloria Stage]({{ site.baseurl }}/assets/gloria.jpg "Gloria Stage - Roskilde '18")
 *Gloria Stage at Roskilde Festival '18 - Photo by Mariliis Kundla*<br/><br/>
 
 At Roskilde Festival 2018, I was a part of the team that helped build the Gloria stage and develop software for the visuals. This was done alongside Vertigo (formerly Obscura) and a bunch of talented visual artists, scene technicians and designers.
@@ -54,7 +54,7 @@ For this project, I developed the front-end of the software, which was a multi-p
 
 ## The Wave
 
-![The Wave photo]({{ site.url }}/assets/thewave.jpeg "The Wave")
+![The Wave photo]({{ site.baseurl }}/assets/thewave.jpeg "The Wave")
 *The Wave (Photo credit: Paul Grover for The Telegraph)*<br/><br/>
 The Wave is a large-scale interactive light and sound installation created by the Danish company [Vertigo](https://www.vertigo.dk/). It consists of forty triangular gates that light up and produce sound.
 I worked as a developer on the software elements that consisted of tracking users within the installation and creating the effect of a POV moving towards the users as they traversed through the gates.
@@ -62,7 +62,7 @@ This was done in OpenFrameworks, python and Max Msp.
 
 ## multivocal
 
-![multivocal logo]({{ site.url }}/assets/multivocal_logo.svg "multivocal logo")
+![multivocal logo]({{ site.baseurl }}/assets/multivocal_logo.svg "multivocal logo")
 Multivocal is an art- and research-based collective exploring the politics and aesthetics of synthesized voics. Normally synthesized voices are trained by a single voice actor, which only has a single vocal identity. In multivocal we question the aesthetic design as well as the representational modes of these synthesized voices, and ask: since voices from machines are not limited to a single vocal identity, why do the currently available synthesized voices have only one gender, one age, and one accent? Multivocal built a voice recording box, which was used at for Roskilde Festival '17, Techfest, IDA and Catch at Click Festival. Additionally we have created audio works showcased at Norberg Festival radio.
 
 In relation to this I have done talks discussing gender, representation and collective voices at [IDA - Driving IT](https://universe.ida.dk/driving-it/speaker/creating-a-multivocal-synthetic-voice/), [Techfestival](http://techfestival.co), [Copenhagen Maker](http://www.copenhagenmaker.com/lrdagsaturday-99/), the [Techtopia Podcast](http://tv.ida.dk/video/18994693/techtopia-17-the-copenhagen-letter-et-manifest-om?start=1156) (in Danish) and at ["Kulturen på P1"](https://multivocal.org/sound/kulturen_paa_p1_frederik.mp3).
@@ -73,7 +73,7 @@ Multivocal is: Alice Emily Baird, Stina Hasse Jørgensen, Mads Steensig Pelt, Ni
 
 ## Graphics design for anyines
 
-![perma screenshot]({{ site.url }}/assets/perma_screenshot.png "anyines visuals")
+![perma screenshot]({{ site.baseurl }}/assets/perma_screenshot.png "anyines visuals")
 *Screenshot from the [Perma website](https://anyines.com/perma/).*<br/><br/>
 
 Anyines is a danish music label started by the two electronic musicians Villads Klint and Aske Zidore. I have created an independent web-page for each release, which is supposed to act as an engaging visual counter-point for the music. So far this has been done for the releases for [Minais B.](http://www.deepcare.anyines.com) and [An Gella](http://www.perma.anyines.com).
@@ -114,7 +114,7 @@ I used this video as a catalyst to discuss the appearance of alterity- and herme
 
 ## BYMODEL
 
-![alt text]({{ site.url }}/assets/Update_1.jpg "Update exhibition")
+![alt text]({{ site.baseurl }}/assets/Update_1.jpg "Update exhibition")
 
 The city model (bymodel) is an ongoing project at the Interactive Spaces Lab. It's based on the idea of visualizing the invisible digital layers of the city in a playful and engaging way.
 
@@ -128,7 +128,7 @@ The city model is developed at the Interactives Spaces Lab in collaboration with
 
 ## The use of evolutionary algorithms in computational design
 
-![alt text]({{ site.url }}/assets/voronoi_1.png "EA Voronoi")
+![alt text]({{ site.baseurl }}/assets/voronoi_1.png "EA Voronoi")
 My bachelor thesis explored the use of evolutionary algorithms in design and architecture. In this study we created a software program that created and evolved three-dimensional voronoi structures based on the output an evolutionary algorithm. The user was able to parameterize the algorithm, select fitness function and watch shapes gradually transform. This piece of software was then used to explore the relation between user (subject) and software (technology). In this we concluded that in order to utilize the emergent qualities of an evolutionary algorithm, the subject shifts between two different outer positions: one where the subjects adjusts and interprets the output of the algorithm and another, where the output of the algorithm becomes the objects of fascination based on unexpected emergent qualities. The study received highest marks 12 (A) and was done in collaboration with Sara Daugbjerg and Julie Eg Thøstensen. In this constellation I did most of the software development and phenomenological aspects of the study.
 
 The thesis, while in Danish, can be read [here](pdfs/evolutionary_algorithms.pdf). The source code for the software can be found on [Github](https://github.com/faaip/Evolutionary-Voronoi).
@@ -137,19 +137,19 @@ The thesis, while in Danish, can be read [here](pdfs/evolutionary_algorithms.pdf
 
 ## Wrapcity
 
-![alt text]({{ site.url }}/assets/wrapcity_1.jpg "Wrapcity - black/white")
+![alt text]({{ site.baseurl }}/assets/wrapcity_1.jpg "Wrapcity - black/white")
 *Wrapcity* was an installation at Roskilde Festival 2015, which was built using scaffolding and 30+ km of plastic wrap. I joined a multi-disciplinary team put together by the Danish Architecture Center and WrapCity was the outcome - a visual interpretation of the complexity, quantity and interconnectedness of Big Data. This installation was done in a 5 day sprint. Created in collaboration with Caroline Beck, Jakob Franijeur, Ove Bitsch Olsen and Nielsine Otto.
 
 ## Magnetic sensing
 
-![alt text]({{ site.url }}/assets/magnet_1.gif "Magnet implant")
+![alt text]({{ site.baseurl }}/assets/magnet_1.gif "Magnet implant")
 *Magnetic implant in ring finger*
 
 During the 3rd semester at Roskilde University, me and my group wanted to explore transhumanism and technological expansion of the senses. It was an intriguing approach to not only do this study from a purely theoretical point, but to include a more subjective element as well. One thing led to another and me and a friend had neodymium magnets implanted in our ring fingers. Magnetic implants allows one to sense a magnetic field and a large part of the project was based on studying and experimenting with the qualia of different magnetic fields. The semester project is called 'Sensory modality in a transhuman perspective' and can be read [here](pdfs/Sensorisk modalitet i et transhumanistisk perspektiv.pdf) (in danish). The project was done in collaboration with Julie Eg Thøstesen, Nis Conrad Nissen, Sebastian Gandsø and Younes Haroun Bakhti and received highest marks 12 (A).
 
 I have later done talks on magnetic sensing at a Pecha Kucha event and on national radio. This interview was later criticized at this [blog](http://www.scienceblog.dk/2016/05/26/soelvpapirshat-om-hvordan-journalister-oedelaegger-befolkningen/).
 
-<img src="{{ site.url }}/assets/pecha_kucha.jpg" width="28">
+<img src="{{ site.baseurl }}/assets/pecha_kucha.jpg" width="28">
 *Talk at Pecha Kucha #30 - Nov 26, 2014*
 
 Living and sensing with a magnetic implant is an ongoing exploration. In the last year or so, it has become a much more subconscious and embodied sensation. In retrospect the project on sensory modality has not been interesting study of magnetic sensing, but has also shaped how I think of elusive research topics and studying these using a more subjective approach.
@@ -158,7 +158,7 @@ Living and sensing with a magnetic implant is an ongoing exploration. In the las
 
 ## Q-Learning for a bi-pedal walker
 
-![alt text]({{ site.url }}/assets/walker_1.gif "Walker falling over")
+![alt text]({{ site.baseurl }}/assets/walker_1.gif "Walker falling over")
 *Initial steps of a walker during simulation*
 
 This project studies how a bipedal body can learn forward movement within a simulated 2D physics environment through a reinforcement learning algorithm. Basically this is having an artificial intelligence teaching itself how to walk without any knowledge of the concept of walking. It only learns through knowledge which is transferred from each generation of walkers. This is still very much a work in progress. Done in collaboration with Sara Daugbjerg and Younes Haroun Bakhti.
@@ -169,7 +169,7 @@ This project studies how a bipedal body can learn forward movement within a simu
 
 ## Various webcam tools
 
-![alt text]({{ site.url }}/assets/webcampoint_1.jpg "Wrapcity - black/white")
+![alt text]({{ site.baseurl }}/assets/webcampoint_1.jpg "Wrapcity - black/white")
 *Selfie using WebcamPointPlotter*
 
 I have created various tools for glitching and manipulating webcam feeds. Initially I was interested in the "honesty" of bit-shifting pixels since the crude manipulation of pixels offered a more _true_ insight to the inner working of pixels and 32-bit integers. This tool can be found on [Github](https://github.com/faaip/WebcamGlitcher) and has later been used by fine artist and good friend Esben Holk in various of his [video works](https://vimeo.com/184868004). Fascinated by the intimate and empowering of elements of using the webcam led me to create WebcamPointPlotter in [C++](https://github.com/faaip/WebcamPointCloud), [p5js](https://github.com/faaip/WebcamPointPlotter_p5js) and [Processing](https://github.com/faaip/WebcamPointPlotter). This programs transforms webcam inputs to 3d-points and the approach now serves as my 'hello world' for new languages.
