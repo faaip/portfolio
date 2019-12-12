@@ -38,7 +38,7 @@ This was created in collaboration with Julian Tapales, Angela Barriga and Maria 
 *Gloria Stage at Roskilde Festival '18 - Photo by Mariliis Kundla*<br/><br/>
 
 At Roskilde Festival 2018, I was a part of the team that helped build the Gloria stage and develop software for the visuals. This was done alongside Vertigo (formerly Obscura) and a bunch of talented visual artists, scene technicians and designers.
-My main role here was to develop control tools for use in production, allowing people to focus on the visuals themselves. 
+My main role here was to develop control tools for use in production, allowing artists and VJ's to focus on the visual experience itself. 
 
 
 ## Digital Neighbourhood
