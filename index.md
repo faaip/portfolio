@@ -152,7 +152,7 @@ I have later done talks on magnetic sensing at a Pecha Kucha event and on nation
 <img src="{{ site.baseurl }}/assets/pecha_kucha.jpg" width="28">
 *Talk at Pecha Kucha #30 - Nov 26, 2014*
 
-Living and sensing with a magnetic implant is an ongoing exploration. In the last year or so, it has become a much more subconscious and embodied sensation. In retrospect the project on sensory modality has not been interesting study of magnetic sensing, but has also shaped how I think of elusive research topics and studying these using a more subjective approach.
+Living and sensing with a magnetic implant is an ongoing exploration. In the last year or so, it has become a much more subconscious and embodied sensation. In retrospect the project on sensory modality has not been interesting study of magnetic sensing, but has also shaped how I think of elusive research topics and studying these in a more subjective or phenomenological manner.
 <br/> <br/>
 <br/> <br/>
 
