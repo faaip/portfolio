@@ -78,7 +78,7 @@ I continued this project as a part of my master's thesis project, where I did se
 
 Multivocal is: Alice Emily Baird, Stina Hasse Jørgensen, Mads Steensig Pelt, Nina Cecilie Højholdt and me.
 
-## Graphics design for anyines
+## Graphic design for anyines
 
 ![perma screenshot]({{ site.baseurl }}/assets/perma_screenshot.png "anyines visuals")
 *Screenshot from the [Perma website](https://anyines.com/perma/).*<br/><br/>
