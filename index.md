@@ -11,6 +11,13 @@ I'm Frederik! I'm a B.Sc. in computer science and philosophy from Roskilde Unive
 Below is a selection of physical, digital and academic work that I've been or currently am involved in.
 <br/> <br/>
 
+## HandPose OSC
+
+![HandPose OSC screenshot]({{ site.baseurl }}/assets/handpose-osc.gif "HandPose OSC")
+*[HandPose OSC](https://github.com/faaip/HandPose-OSC/releases) screen capture*<br/><br/>
+
+[HandPose OSC](https://github.com/faaip/HandPose-OSC) is a standalone program, which runs the MediaPipe HandPose model on a webcam input and outputs the predictions as OSC. This makes this app useful for use in hand-based interaction design. As of v1.1, it's available to [download](https://github.com/faaip/HandPose-OSC/releases) for osx, linux and windows.
+
 ## Lyden af Struer
 
 ![Lyden Af Struer screenshot]({{ site.baseurl }}/assets/lydenafstruer.png "Lyden Af Struer")
