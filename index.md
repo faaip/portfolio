@@ -83,7 +83,7 @@ Multivocal is: Alice Emily Baird, Stina Hasse Jørgensen, Mads Steensig Pelt, Ni
 ![perma screenshot]({{ site.baseurl }}/assets/perma_screenshot.png "anyines visuals")
 *Screenshot from the [Perma website](https://anyines.com/perma/).*<br/><br/>
 
-Anyines is a danish music label started by the two electronic musicians Villads Klint and Aske Zidore. I have created an independent web-page for each release, which is supposed to act as an engaging visual counter-point for the music. So far this has been done for the releases for [Minais B.](http://www.deepcare.anyines.com) and [An Gella](http://www.perma.anyines.com).
+Anyines is a danish music label started by the two electronic musicians Villads Klint and Aske Zidore. I have created independent web-pages for some of their releases, which are supposed to act as engaging visual counter-points to the music. So far this has been done for the releases for [Minais B.](https://anyines.com/deepcare/) and [An Gella](https://anyines.com/perma/).
 
 ## Skyskraber - Skyhearted
 
