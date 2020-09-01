@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="{{ site.baseurl }}/assets/profile_picture.jpg">
 
-I'm Frederik! I'm a B.Sc. in computer science and philosophy from Roskilde University and newly graduated M.Sc. in IT & Cognition from Copenhagen University. Currently I work at [FabLab RUC](https://fablab.ruc.dk/) as a technology consultant. In addition to experience as a software developer, I'm also a member of the art- and research based collective [multivocal](http://www.multivocal.org) and a co-initiator of [Group Therapy](https://www.facebook.com/grouptherapy.cph/), a string of parties in Copenhagen exploring diversity and community in and around the dj booth.
+I'm Frederik! I'm a B.Sc. in computer science and philosophy from Roskilde University and newly graduated M.Sc. in IT & Cognition from Copenhagen University. I now work as an external lecturer and project supervisor at Roskilde University's computer science department. In addition to experience as a software developer, I'm also a member of the art- and research based collective [multivocal](http://www.multivocal.org) and a co-initiator of [Group Therapy](https://www.facebook.com/grouptherapy.cph/), a string of parties in Copenhagen exploring diversity and community in and around the dj booth.
 
 Below is a selection of physical, digital and academic work that I've been or currently am involved in.
 <br/> <br/>
