@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/faaip"
-footer_text: "Portfolio for Frederik Tollund Juutilainen"
+footer_text: "Portfolio for Frederik T. Juutilainen"
 
 sass:
     style: compressed
@@ -19,7 +19,5 @@ sass:
 nav:
  - name: "Main"
    link: "index"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
